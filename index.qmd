@@ -1,0 +1,9 @@
+---
+title: "Home"
+---
+
+# QuasiFriends
+
+Welcome to our collaborative blog.
+
+- [Blog](blog.qmd)
