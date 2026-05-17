@@ -1,0 +1,12 @@
+/.quarto/
+**/*.quarto_ipynb
+_site/
+
+# R / Python / Jupyter noise (safe even if unused)
+*.Rproj.user/
+*.Rhistory
+*.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db

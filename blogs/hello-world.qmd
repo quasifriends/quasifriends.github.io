@@ -1,0 +1,21 @@
+---
+title: "Hello World"
+date: 2026-05-16
+categories: [intro]
+---
+
+# Hello World
+
+This is our first Quarto blog post.
+
+We can write math like:
+
+$$
+a^2 + b^2 = c^2
+$$
+
+And include code:
+
+```python
+print("hello world")
+```
